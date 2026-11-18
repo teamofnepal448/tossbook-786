@@ -1,0 +1,6 @@
+{
+  "name": "TOSS BOOK 786",
+  "description": "Asia's No. 1 premium toss platform. Live toss contests, instant wallet, and royal gold experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
